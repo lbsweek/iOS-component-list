@@ -2,6 +2,8 @@ iOS-component-list
 ==================
 
 
+http://m.163.com/special/newsclient/ios_libraries.html
+
 
 网易新闻iOS版使用的开源组件
 
